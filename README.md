@@ -1,7 +1,8 @@
-general
-=======
+OpenSeaMap Generic Issue Tracker
+================================
 
-Issues not fitting into another project.
+This repository is used by the OpenSeaMap team for generic issues using the
+[issue tracker](https://github.com/OpenSeaMap/general/issues).
 
 SSH keys
 --------
